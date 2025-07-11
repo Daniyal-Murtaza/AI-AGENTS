@@ -1,0 +1,8 @@
+crewai
+autogen
+langchain 
+llama
+open ai agent SDK
+
+
+junie = code assistant
